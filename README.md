@@ -32,8 +32,9 @@ Here you will need to create a new instance. Many kinds of instances can be crea
 This will have you create a key. Make sure you save the key to a folder in your desktop.
 
 ## Contecting to your EC2 Instance
-After creating your instance click the connect button and page should pop up.
-There will be an example section with text on what to connect and we need to copy this test to our clipboard.
+After creating your instance click the connect button and a page should pop up. At the top we see a button is selected that will have SSH selected. We need to make sure this button is selected because at the bottom there is clip of text to select that will allow us to connect via ssh.
+
+There will be an example section with text on what to connect and we need to copy this text to our clipboard.
 
 ![example](https://howtodoinjava.com/wp-content/uploads/2017/07/EC2_15.jpg)
 
