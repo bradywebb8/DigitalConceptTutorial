@@ -31,7 +31,7 @@ This will have you create a key. Make sure you save the key to a folder in your 
 ## Contecting to your EC2 Instance
 After creating your instance click the connect button and page should pop up.
 There will be an example section with text on what to connect and we need to copy this test to our clipboard.
-[example](https://howtodoinjava.com/wp-content/uploads/2017/07/EC2_15.jpg)
+![example](https://howtodoinjava.com/wp-content/uploads/2017/07/EC2_15.jpg)
 Next we will need to go back to terminal. We will then use the command 'cd desktop' to move into our desktop directory where our key was saved. You will then paste what we copied from our ec2 instance and hit enter. It will ask you if you are sure you would like to connect and type 'y'. You should see the following page after completion.
-[terminalPage](https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2019/06/25/Picture1-2.png)
+![terminalPage](https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2019/06/25/Picture1-2.png)
 Finally you will be connected to your new Amazon Ec2 instance and can make any necisary modifications.
